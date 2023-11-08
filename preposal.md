@@ -2,10 +2,10 @@
 
 ## What idea(s) do you have for your final project?
 
-BMI calculator
-Math problems to speed run to get a high score.
-Snake game
-Tic tac toe
+#BMI calculator
+#Math problems to speed run to get a high score.
+#Snake game
+#Tic tac toe
 
 ## If you plan to collaborate with one or two classmates, what are their names?
 
